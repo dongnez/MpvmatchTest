@@ -1,0 +1,13 @@
+.projectItem_container{
+    display: flex;
+    
+    background:#FFFFFF;
+    padding:26px 24px;
+    margin-bottom:5px;
+    border-radius:10px;
+    transition: background 0.2s ease;
+}
+
+.projectItem_container:hover{
+    background: #f1f1f1;
+}

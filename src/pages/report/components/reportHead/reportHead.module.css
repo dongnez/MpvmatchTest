@@ -1,0 +1,49 @@
+.reportHead_container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.greenButton{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border: none;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #1BC5BD;
+    color: white;
+    transition: background 0.2s ease;
+    width: max-content;
+}
+
+.greenButton:hover{
+    background: #17b3ab;
+}
+
+.generateButton{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border: none;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #005B96;
+    color: white;
+    transition: background 0.2s ease;
+}
+
+.generateButton:hover{
+    background: #025085;
+}
+
+.selectText{
+    cursor: default;
+    transition: color 0.2s ease;
+}
+.selectText:hover{
+    color:rgba(50, 147, 226, 0.788)
+}

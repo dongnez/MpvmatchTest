@@ -1,0 +1,12 @@
+.topbar_container{
+    width: 100vw;
+    height: 80px;
+}
+
+.topbar_content{
+    height: 78px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 35px;
+}

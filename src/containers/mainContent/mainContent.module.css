@@ -1,0 +1,4 @@
+.mainContent_container{
+    margin-right: var(--contentRightMargin);
+    width: 100%;
+}
